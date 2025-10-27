@@ -5,7 +5,7 @@
 
 ## 🎓 About Me
 
-AI & Data Science Engineering student at **The Higher School of Computer Science (ESI SBA)**, specializing in Artificial Intelligence and Data Science. Passionate about building intelligent systems and deploying real-world ML solutions.
+AI & Data Science Engineering student at **The Higher School of Computer Science (ESI SBA)**, specializing in Artificial Intelligence and Data Science. Passionate about building intelligent systems and deploying real-world solutions.
 
 - 🔭 Currently working on Computer Vision and Deep Learning projects
 - 🌱 Exploring advanced NLP and model deployment techniques

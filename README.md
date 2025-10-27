@@ -1,6 +1,6 @@
 # Hi there, I'm BADEREDDINE Haitham 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/haitham-badereddine-511363254/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haitham-badereddine-511363254/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h.badereddine@esi-sba.dz)
 
 ## 🎓 About Me
@@ -42,43 +42,43 @@ AI & Data Science Engineering student at **The Higher School of Computer Science
 
 > 📄 Each project includes a **detailed technical report** documenting the methodology, implementation, and results.
 
-### 🔍 [PPE Detection System]([LINK_TO_REPO](https://github.com/BadereddineHaitham/PPE-Detection))
+### 🔍 [PPE Detection System](https://github.com/BadereddineHaitham/PPE-Detection)
 Computer vision solution using **YOLOv8** and **Faster R-CNN** for real-time detection of personal protective equipment in industrial settings. Optimized for edge deployment with minimal power consumption.
 
 **Tech Stack:** Python, YOLOv8, Faster R-CNN, OpenCV, TensorFlow  
-📑 [View Detailed Report]([LINK_TO_REPORT](https://github.com/BadereddineHaitham/PPE-Detection/blob/main/Project%20report.pdf))
+📑 [View Detailed Report](https://github.com/BadereddineHaitham/PPE-Detection/blob/main/Project%20report.pdf)
 
 ---
 
-### 🛡️ [Malicious URL Detection]([LINK_TO_REPO](https://github.com/BadereddineHaitham/malicious-url-detector))
+### 🛡️ [Malicious URL Detection](https://github.com/BadereddineHaitham/malicious-url-detector)
 LSTM-based web application achieving **96% accuracy** in real-time detection of phishing, malware, and defacement threats through lexical URL analysis.
 
 **Tech Stack:** Python, LSTM, TensorFlow, Flask, JavaScript  
-📑 [View Detailed Report]([LINK_TO_REPORT](https://github.com/BadereddineHaitham/malicious-url-detector/blob/main/Docs/Malicious_URL_Detection.pdf))
+📑 [View Detailed Report](https://github.com/BadereddineHaitham/malicious-url-detector/blob/main/Docs/Malicious_URL_Detection.pdf)
 
 ---
 
-### 🖼️ [SRGAN Image Enhancement]([LINK_TO_REPO](https://github.com/BadereddineHaitham/srgan-image-super-resolution))
+### 🖼️ [SRGAN Image Enhancement](https://github.com/BadereddineHaitham/srgan-image-super-resolution)
 Deep learning application for high-resolution image generation using **SRGAN**, outperforming traditional upsampling methods in detail reconstruction and perceptual quality.
 
 **Tech Stack:** Python, SRGAN, TensorFlow, PyTorch, Streamlit  
-📑 [View Detailed Report]([LINK_TO_REPORT](https://github.com/BadereddineHaitham/srgan-image-super-resolution/blob/main/docs/SRGAN_Report.pdf))
+📑 [View Detailed Report](https://github.com/BadereddineHaitham/srgan-image-super-resolution/blob/main/docs/SRGAN_Report.pdf)
 
 ---
 
-### 🕌 [Pilgrimage Management Platform](LINK_TO_REPO)
+### 🕌 Pilgrimage Management Platform
 Full-stack web application automating pilgrim registration, medical validation, hotel reservations, and stage-by-stage guidance with real-time notifications.
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB  
-📑 [View Detailed Report](LINK_TO_REPORT)
+📑 *Report coming soon*
 
 ---
 
-### 📚 [KidLink - Education App]([LINK_TO_REPO](https://github.com/BadereddineHaitham/KidLink-App))
+### 📚 [KidLink - Education App](https://github.com/BadereddineHaitham/KidLink-App)
 Mobile communication platform enabling seamless parent-teacher collaboration and individualized student monitoring.
 
 **Tech Stack:** Flutter, Dart, Firebase, RESTful APIs  
-📑 [View Detailed Report]([LINK_TO_REPORT](https://github.com/BadereddineHaitham/KidLink-App/blob/main/KIDLINK/KIDLINK/project%20report.pdf))
+📑 [View Detailed Report](https://github.com/BadereddineHaitham/KidLink-App/blob/main/KIDLINK/KIDLINK/project%20report.pdf)
 
 ## 📊 GitHub Stats
 
@@ -98,14 +98,14 @@ Mobile communication platform enabling seamless parent-teacher collaboration and
 I've documented my learning journey with comprehensive materials:
 
 - 📝 **Module Summaries** - Detailed notes and key concepts from my coursework
-  - [Deep Learning]([LINK_TO_DL_SUMMARY](https://github.com/BadereddineHaitham/Some-Module-Summaries-ESI-sba-AI-DS/blob/main/dl.pdf))
-  - [NLP]([LINK_TO_NLP_SUMMARY](https://github.com/BadereddineHaitham/Some-Module-Summaries-ESI-sba-AI-DS/blob/main/NLP.pdf))
-  - [And more...]([LINK_TO_ALL_SUMMARIES](https://github.com/BadereddineHaitham/Some-Module-Summaries-ESI-sba-AI-DS))
+  - [Deep Learning](https://github.com/BadereddineHaitham/Some-Module-Summaries-ESI-sba-AI-DS/blob/main/dl.pdf)
+  - [NLP](https://github.com/BadereddineHaitham/Some-Module-Summaries-ESI-sba-AI-DS/blob/main/NLP.pdf)
+  - [And more...](https://github.com/BadereddineHaitham/Some-Module-Summaries-ESI-sba-AI-DS)
 
 - 💻 **Lab Solutions** - My implementations and solutions for course assignments
-  - [Machine Learning Labs]([LINK_TO_ML_LABS](https://github.com/BadereddineHaitham/ML-ESI-sba-2025))
-  - [Deep Learning Labs]([LINK_TO_DL_LABS](https://github.com/BadereddineHaitham/DL-ESI-sba-2025))
-  - [View All Labs]([LINK_TO_ALL_LABS](https://github.com/BadereddineHaitham?tab=repositories))
+  - [Machine Learning Labs](https://github.com/BadereddineHaitham/ML-ESI-sba-2025)
+  - [Deep Learning Labs](https://github.com/BadereddineHaitham/DL-ESI-sba-2025)
+  - [View All Labs](https://github.com/BadereddineHaitham?tab=repositories)
 
 > 💡 These resources are shared to help fellow students and demonstrate my learning process
 
@@ -120,7 +120,7 @@ I've documented my learning journey with comprehensive materials:
 I'm always open to interesting conversations and collaboration opportunities!
 
 - 📧 Email: h.badereddine@esi-sba.dz
-- 💼 LinkedIn: [Your LinkedIn Profile]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/haitham-badereddine-511363254/))
+- 💼 LinkedIn: [Haitham Badereddine](https://www.linkedin.com/in/haitham-badereddine-511363254/)
 - 📱 Phone: +213 660064377
 
 ---
